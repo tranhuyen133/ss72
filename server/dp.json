@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Tiêu đề bài viết",
+      "thumbnail": "https://img.thuthuat123.com/uploads/2019/07/16/hinh-nen-goku-chat_030304034.jpg",
+      "category": "lập trình web",
+      "updateAt": "12/02/2006",
+      "status": true
+    },
+    {
+      "id": 2,
+      "title": "Tiêu đề bài viết",
+      "thumbnail": "https://img.thuthuat123.com/uploads/2019/07/16/hinh-nen-goku-chat_030304034.jpg",
+      "category": "lập trình web",
+      "updateAt": "12/02/2006",
+      "status": true
+    },
+    {
+      "id": 3,
+      "title": "Tiêu đề bài viết",
+      "thumbnail": "https://img.thuthuat123.com/uploads/2019/07/16/hinh-nen-goku-chat_030304034.jpg",
+      "category": "lập trình web",
+      "updateAt": "12/02/2006",
+      "status": false
+    },
+    {
+      "title": "tiêu đề 3",
+      "thumbnail": "https://img.thuthuat123.com/uploads/2019/07/16/hinh-nen-goku-chat_030304034.jpg",
+      "category": "mới",
+      "updateAt": "2024-06-14",
+      "status": true,
+      "id": 5
+    }
+  ]
+}
